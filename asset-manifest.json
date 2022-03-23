@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/slice-wordapp/static/css/main.abd64e84.css",
+    "main.js": "/slice-wordapp/static/js/main.53c018ba.js",
+    "index.html": "/slice-wordapp/index.html",
+    "main.abd64e84.css.map": "/slice-wordapp/static/css/main.abd64e84.css.map",
+    "main.53c018ba.js.map": "/slice-wordapp/static/js/main.53c018ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.53c018ba.js"
+  ]
+}
